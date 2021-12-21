@@ -1,1 +1,1 @@
-module.exports.autobahn = require('autobahn-browser')
+module.exports = require('autobahn-browser')
