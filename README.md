@@ -2,7 +2,7 @@
 
 ![Unreasonable](https://img.shields.io/badge/unreasonable-absolutely-green)
 
-Next line will import `autobahn` running in NodeJS env, and `autobahn-browser` if in browser.
+Will import `autobahn` running in NodeJS env, and `autobahn-browser` if in browser.
 
 ```
 import { autobahn } from 'isomorphic-autobahn'
