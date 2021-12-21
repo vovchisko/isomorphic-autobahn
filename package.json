@@ -1,0 +1,24 @@
+{
+  "name": "isomorphic-autobahn",
+  "version": "1.0.0",
+  "description": "The right version of autobahn when it's needed.",
+  "main": "main.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovchisko/isomorphic-autobahn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovchisko/isomorphic-autobahn/issues"
+  },
+  "homepage": "https://github.com/vovchisko/isomorphic-autobahn#readme",
+  "dependencies": {
+    "autobahn": "^20.9.2",
+    "autobahn-browser": "^20.9.2"
+  }
+}
