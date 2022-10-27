@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-autobahn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The right version of autobahn when it's needed.",
   "main": "main.js",
   "browser": "browser.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/vovchisko/isomorphic-autobahn#readme",
   "dependencies": {
-    "autobahn": "^20.9.2",
-    "autobahn-browser": "^20.9.2"
+    "autobahn": "^22.10.1",
+    "autobahn-browser": "^22.10.1"
   }
 }
