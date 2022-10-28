@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-autobahn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The right version of autobahn when it's needed.",
   "main": "main.js",
   "browser": "browser.js",
