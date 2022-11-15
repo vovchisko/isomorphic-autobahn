@@ -1,1 +1,3 @@
-module.exports = require('autobahn-browser')
+import * as autobahn from 'autobahn-browser'
+
+export default autobahn

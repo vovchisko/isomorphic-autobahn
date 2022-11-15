@@ -1,1 +1,3 @@
-module.exports = require('autobahn')
+import * as autobahn from 'autobahn'
+
+export default autobahn

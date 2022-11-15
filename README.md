@@ -8,8 +8,7 @@ Will import `autobahn` running in NodeJS env, and `autobahn-browser` if in brows
 import { autobahn } from 'isomorphic-autobahn'
 ```
 
-Should pick `^22.10.1` version.
-
+Should pick `^22.11.1` version.
 
 ---
 

@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "The right version of autobahn when it's needed.",
   "main": "main.js",
+  "type": "module",
   "browser": "browser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/vovchisko/isomorphic-autobahn#readme",
   "dependencies": {
-    "autobahn": "^22.10.1",
-    "autobahn-browser": "^22.10.1"
+    "autobahn": "^22.11.1",
+    "autobahn-browser": "^22.11.1"
   }
 }
